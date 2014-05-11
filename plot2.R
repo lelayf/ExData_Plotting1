@@ -1,4 +1,4 @@
-source("loadData.R")
+twoDays <- read.csv("twoDays.csv")
 png(filename = "plot2.png", width = 480, height = 480, units = "px", res=72, bg = "white")
 plot(twoDays$Global_active_power,type="l", xlab="",ylab="Global Active Power (kilowatts)",xaxt="n")
 axis(1,at=c(1,1440,2880),labels=c("Thu","Fri","Sat"))

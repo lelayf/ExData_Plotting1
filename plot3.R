@@ -1,4 +1,4 @@
-source("loadData.R")
+twoDays <- read.csv("twoDays.csv")
 png(filename = "plot3.png", width = 480, height = 480, units = "px", res=72, bg = "white")
 plot(c(1,2880),c(1,40),ylab="Energy sub-metering",type="n",xlab="",xaxt="n",yaxt="n")
 axis(1,at=c(1,1440,2880),labels=c("Thu","Fri","Sat"))
