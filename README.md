@@ -1,8 +1,11 @@
+## Peer Assessment note
+
 Dear peers,
 
-In order to assess my work for week 1 of the Exploratory data analysis course, you can read through [Course Project 1](CourseProject1.md).
+Please read through [Course Project 1](CourseProject1.md) to assess my work for week 1 of the Exploratory Data Analysis course.
 
-François
+Have a good day,
+François Le Lay
 
 ## Introduction
 
